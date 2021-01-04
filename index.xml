@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://lixunwstu.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jan 2021 15:38:56 +0800</lastBuildDate><atom:link href="https://lixunwstu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three</title>
+      <link>https://lixunwstu.github.io/post/three/</link>
+      <pubDate>Mon, 04 Jan 2021 15:38:56 +0800</pubDate>
+      
+      <guid>https://lixunwstu.github.io/post/three/</guid>
+      <description>我的第一次博客内容</description>
+    </item>
+    
+  </channel>
+</rss>
